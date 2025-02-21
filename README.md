@@ -1,10 +1,10 @@
-# Your Name  
+# Hi there, my name is Wilson 👋
 🔹 Web Developer | Cybersecurity Enthusiast | Blockchain Enthusiast
 
-## 👋 About Me  
+## 🙋About Me  
 🚀 Passionate about web development, cybersecurity, and blockchain technologies.  
 🎯 Always learning and building scalable, secure, and efficient applications.  
-💡 Interested in frontend, backend, and cloud security.  
+💡 Interested in frontend, backend, blockchain  and cloud security.  
 
 
 <!--
